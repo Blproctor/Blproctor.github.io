@@ -1,7 +1,22 @@
 body {
-  background: #000;
+  background: #F08080;
 }
 
 h1 {
-  color: #FF2734;
+  color: #F6ecec;
+}
+
+body {
+    margin:0;
+    font-size: 62.5%;
+    font-family: Arial, Sans-Serif;
+    line-height: 150%;
+}
+
+div, p, ul {
+    padding:0px; margin:0px; border:none;
+}
+
+ul {
+    list-style-type: none;
 }
